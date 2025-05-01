@@ -1,0 +1,9 @@
+Package: Pulsar Theme Applier
+Version: 2.0
+Section: utils
+Priority: optional
+Architecture: all
+Depends: python3, python3-gi, gir1.2-gtk-3.0
+Maintainer: Inled Group <contacto@inled.es>
+Description: Aplicador de temas de Pulsar OS
+ Aplica los temas de GNOME de Pulsar OS

@@ -1,0 +1,12 @@
+
+DEBIAN
+- control
+usr
+-bin
+--pulsar.macostheme
+-share
+--applications
+---pulsar.macostheme.desktop
+--pixmaps
+---pulsar.amcostheme.png
+--pulsar.macostheme
