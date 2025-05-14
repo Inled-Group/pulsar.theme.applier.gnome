@@ -42,8 +42,8 @@ class MacOSThemeApplier:
         self.icons_dir = self.home_dir / ".icons"
         
         # Nombre de los temas predefinidos (como se solicitaron)
-        self.cursor_theme = "MacOS-Pixel-vr5"
-        self.icon_theme = "WhiteSur"
+        self.cursor_theme = "Pulsar.cursormac"
+        self.icon_theme = "WhiteSur-dark"
         self.shell_theme = "WhiteSur-Dark"
         self.gtk_theme = "WhiteSur-Dark"
         
